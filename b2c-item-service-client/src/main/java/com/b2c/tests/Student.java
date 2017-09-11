@@ -7,6 +7,7 @@ import java.io.Serializable;
  */
 class Students implements Serializable{
 
+    private short a;
     private Integer id;
     private String  name;
 
